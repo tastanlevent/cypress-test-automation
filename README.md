@@ -5,11 +5,10 @@ This project contains automated tests using Cypress to ensure the functionality 
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
+  - [Usage](#usage)
   - [Configuration](#configuration)
-  - [Running Tests](#running-tests)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
+  
+ 
 
 
 ## Getting Started
