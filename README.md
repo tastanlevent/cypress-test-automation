@@ -14,11 +14,11 @@ This project contains automated tests using Cypress to ensure the functionality 
 ## Getting Started
 Follow these steps to set up and run the project locally.
 
-## Prerequisites 
+### Prerequisites 
 - Install Node.js on your machine.
 - You can use either npm or yarn for managing project dependencies.
 
-## Installation
+### Installation
 1. Clone the repository to your local machine:
 ```
 git clone https://github.com/tastanlevent/cypress-test-automation.git
@@ -29,7 +29,7 @@ cd cypress-test-automation
 npm install
 ```
 
-## Usage
+### Usage
 1. Open Cypress tests by running the following command in the project directory:
 ```
 npx cypress open
@@ -38,7 +38,7 @@ npx cypress open
 3. Watch the tests execute in real-time and review the results.
 
 
-## Configuration
+### Configuration
 For the Amazon Login Test scenario, users need to provide their own Amazon.com email and password for authentication. Follow these steps to configure the test:
 1. Navigate to the static_data.json file in the project.
 2. Open the file and locate the "email_amazon" and "password_amazon" fields.
